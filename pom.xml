@@ -151,6 +151,7 @@
           <plugin>
             <groupId>io.fabric8</groupId>
             <artifactId>fabric8-maven-plugin</artifactId>
+            <version>3.5.22</version>
             <executions>
               <execution>
                 <id>fmp</id>
@@ -175,7 +176,7 @@
             <resources>
               <labels>
                 <all>
-                  <space>myspace</space>
+                  <space>aug10space2</space>
                 </all>
               </labels>
             </resources>
